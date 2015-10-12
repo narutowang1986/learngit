@@ -1,1 +1,2 @@
 haha... hello world
+git diff test.txt is ok ?

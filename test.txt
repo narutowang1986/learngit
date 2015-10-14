@@ -1,5 +1,5 @@
 haha... hello world
-git diff test.txt is ok ?
+naruto ceshi git diff test.txt is ok ?
 try again
 i am a dev
 

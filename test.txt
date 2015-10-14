@@ -1,4 +1,4 @@
-haha... hello world
+haha... hello world naruto ceshi
 git diff test.txt is ok ?
 try again
 i am a dev

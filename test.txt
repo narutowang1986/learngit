@@ -1,5 +1,4 @@
 haha... hello world
 git diff test.txt is ok ?
 try again
-hahaha...
 i am a dev
